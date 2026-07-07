@@ -90,18 +90,22 @@ I'm always open to connecting with developers, learning from experienced enginee
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/megha-biradar-206734333">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/megha-biradar-206734333" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:meghabiradar11@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-<a href="https://megha11092018.github.io/MyPortfolio/">
-<img src="https://skillicons.dev/icons?i=portfolio"/>
-</a>
+  <a href="mailto:meghabiradar11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 
+  <a href="https://github.com/Megha11092018" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://megha11092018.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 ## 💡 Favorite Quote
 
