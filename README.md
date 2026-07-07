@@ -91,21 +91,21 @@ I'm always open to connecting with developers, learning from experienced enginee
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/megha-biradar-206734333">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/megha-biradar-206734333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:meghabiradar11@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
-</a>
+  <a href="mailto:meghabiradar11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Megha11092018">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
-</a>
+  <a href="https://github.com/Megha11092018">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://megha11092018.github.io/MyPortfolio/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
-</a>
+  <a href="https://megha11092018.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 ## 💡 Favorite Quote
 
