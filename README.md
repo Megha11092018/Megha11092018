@@ -47,13 +47,26 @@ I'm always open to connecting with developers, learning from experienced enginee
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,docker,aws,linux,vscode,eclipse" />
 </p>
-## 📊 GitHub Stats
+## 👀 Profile Visitors
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha11092018&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://komarev.com/ghpvc/?username=Megha11092018&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Megha11092018&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Megha11092018&theme=tokyo-night"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </p>
