@@ -50,14 +50,10 @@ I'm always open to connecting with developers, learning from experienced enginee
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha11092018&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha11092018&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha11092018&layout=compact&theme=tokyonight"/> -->
-  =<img src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Megha11092018&theme=tokyonight" />
 </p>
