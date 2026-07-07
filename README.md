@@ -103,9 +103,9 @@ I'm always open to connecting with developers, learning from experienced enginee
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
-  <a href="https://megha11092018.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+ <a href="https://megha11092018.github.io/MyPortfolio/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>
+</a>
 </p>
 ## 💡 Favorite Quote
 
