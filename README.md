@@ -71,6 +71,11 @@ I'm always open to connecting with developers, learning from experienced enginee
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megha11092018&theme=tokyo-night"/>
 </p>
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Megha11092018&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 🌐 Connect With Me
 
