@@ -11,14 +11,17 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 Hello! I'm Megha Biradar 👋
 
 
-I am a Computer Science Engineering graduate and an aspiring Java Full Stack Developer with a passion for building scalable, secure, and user-centric web applications. I specialize in Java, Spring Boot, React.js, MySQL, HTML, CSS, and JavaScript, and I'm continuously enhancing my skills in AWS Cloud, Docker, Kubernetes, Jenkins, and modern DevOps practices.
+## 👩‍💻 About Me
 
-I enjoy transforming ideas into real-world applications by developing responsive user interfaces, designing RESTful APIs, managing databases, and deploying applications to the cloud. Every project I build helps me strengthen my technical skills and deepen my understanding of modern software development.
+I am a **Computer Science Engineering graduate** and an aspiring **Java Full Stack Developer** with a passion for building **scalable**, **secure**, and **user-centric web applications**. I specialize in **Java**, **Spring Boot**, **React.js**, **MySQL**, **HTML**, **CSS**, and **JavaScript**, and I'm continuously enhancing my skills in **AWS Cloud**, **Docker**, **Kubernetes**, **Jenkins**, and modern **DevOps** practices.
 
-Currently, I am focused on mastering cloud technologies, microservices, CI/CD, and system design while preparing for Software Development Engineer (SDE) and Java Full Stack Developer roles.
+I enjoy transforming ideas into **real-world applications** by developing **responsive user interfaces**, designing **RESTful APIs**, managing **databases**, and deploying applications to the **cloud**. Every project I build helps me strengthen my **technical skills** and deepen my understanding of **modern software development**.
 
-My mission is to build reliable, scalable, and impactful software solutions while continuously learning, collaborating, and contributing to the developer community.
-I enjoy taking on new challenges because every project teaches me something different. Whether it's designing responsive user interfaces, developing secure REST APIs, optimizing databases, or debugging complex issues, I see every obstacle as an opportunity to improve my skills.
+Currently, I am focused on mastering **Cloud Technologies**, **Microservices**, **CI/CD**, and **System Design** while preparing for **Software Development Engineer (SDE)** and **Java Full Stack Developer** roles.
+
+My mission is to build **reliable**, **scalable**, and **impactful software solutions** while continuously **learning**, **collaborating**, and contributing to the **developer community**.
+
+I enjoy taking on **new challenges** because every project teaches me something different. Whether it's designing **responsive user interfaces**, developing **secure REST APIs**, optimizing **databases**, or **debugging complex issues**, I see every obstacle as an opportunity to **learn**, **grow**, and improve my **problem-solving skills**.
 
 💻 What You'll Find Here
 This GitHub profile is a collection of my learning journey, including:
