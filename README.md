@@ -47,3 +47,16 @@ I'm always open to connecting with developers, learning from experienced enginee
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,docker,aws,linux,vscode,eclipse" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha11092018&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha11092018&layout=compact&theme=tokyonight"/>
+</p>
