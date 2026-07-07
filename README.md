@@ -98,6 +98,10 @@ I'm always open to connecting with developers, learning from experienced enginee
 <a href="mailto:meghabiradar11@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<a href="https://megha11092018.github.io/MyPortfolio/">
+<img src="https://skillicons.dev/icons?i=portfolio"/>
+</a>
+
 </p>
 ## 💡 Favorite Quote
 
