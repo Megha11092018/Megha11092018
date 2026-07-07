@@ -50,3 +50,8 @@ I'm working towards becoming a software engineer who builds scalable, efficient,
 ### 🤝 Let's Connect
 
 I'm always open to connecting with developers, learning from experienced engineers, contributing to open-source projects, and exploring exciting opportunities in software development.
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,docker,aws,linux,vscode,eclipse" />
+</p>
