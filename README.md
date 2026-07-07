@@ -85,7 +85,7 @@ I'm always open to connecting with developers, learning from experienced enginee
 </p>
 ## 💡 Favorite Quote
 
-> "The beautiful thing about learning is that no one can take it away from you.">
+> "The beautiful thing about learning is that no one can take it away from you."
 ## ⚡ Fun Fact
 
 💻 I enjoy turning ideas into real-world applications and continuously exploring new technologies.
