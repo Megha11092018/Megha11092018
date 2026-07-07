@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megha Biradar</h1>
 
 <p align="center">
-  <img src="assets/avatar.png" width="220" alt="Megha Biradar" />
+  <img src="avatar.png" width="220" alt="Megha Biradar"/>
 </p>
 
 <h3 align="center">
