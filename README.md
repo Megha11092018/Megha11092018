@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Biradar</h1>
 
-<p align="center">
-  <img src="avatar.png.png" width="320" height="320" alt="Megha Biradar"/>
-</p>
-
 <h3 align="center">
 Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 </h3>
@@ -13,6 +9,8 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 </p> 
 
 Hello! I'm Megha Biradar 👋
+
+
 I am a Computer Science Engineering graduate and an aspiring Java Full Stack Developer with a passion for building scalable, secure, and user-centric web applications. I specialize in Java, Spring Boot, React.js, MySQL, HTML, CSS, and JavaScript, and I'm continuously enhancing my skills in AWS Cloud, Docker, Kubernetes, Jenkins, and modern DevOps practices.
 
 I enjoy transforming ideas into real-world applications by developing responsive user interfaces, designing RESTful APIs, managing databases, and deploying applications to the cloud. Every project I build helps me strengthen my technical skills and deepen my understanding of modern software development.
