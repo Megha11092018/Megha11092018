@@ -53,6 +53,19 @@ I'm always open to connecting with developers, learning from experienced enginee
   <img src="https://komarev.com/ghpvc/?username=Megha11092018&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+## 🎯 Current Focus
+
+🚀 Learning AWS & DevOps
+
+📚 Mastering Spring Boot
+
+🐳 Docker & Kubernetes
+
+☁️ Cloud Deployment
+
+💼 Preparing for Software Developer Roles
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -62,11 +75,17 @@ I'm always open to connecting with developers, learning from experienced enginee
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/megha-biradar-206734333">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:meghabiradar11@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
+## 💡 Favorite Quote
+
+> "The beautiful thing about learning is that no one can take it away from you.">
+## ⚡ Fun Fact
+
+💻 I enjoy turning ideas into real-world applications and continuously exploring new technologies.
