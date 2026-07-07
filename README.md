@@ -91,20 +91,20 @@ I'm always open to connecting with developers, learning from experienced enginee
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/megha-biradar-206734333" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/megha-biradar-206734333">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+</a>
 
-  <a href="mailto:meghabiradar11@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
+<a href="mailto:meghabiradar11@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+</a>
 
-  <a href="https://github.com/Megha11092018" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
+<a href="https://github.com/Megha11092018">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
+</a>
 
- <a href="https://megha11092018.github.io/MyPortfolio/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>
+<a href="https://megha11092018.github.io/MyPortfolio/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
 </a>
 </p>
 ## 💡 Favorite Quote
