@@ -33,6 +33,8 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman"/>
 </p>
+
+---
 ## 🎯 Currently Learning
 
 * ☁️ AWS Cloud
