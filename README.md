@@ -47,6 +47,17 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 * 📚 System Design & DSA
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Megha11092018&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Megha11092018&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha11092018&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📈 GitHub Activity
 
