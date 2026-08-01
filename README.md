@@ -11,8 +11,9 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 ---
 
 ## 👩‍💻 About Me
-<img align="right" alt="Developer" width="350"
-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<img align="right" alt="Anime Girl Coding" width="350"
+src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 🎓 Computer Science Engineering graduate passionate about building **scalable and secure Full Stack applications**.
 
