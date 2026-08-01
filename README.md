@@ -45,10 +45,11 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
 </p>
 
-### 🗄️ Databases
-<p>
+### 🗃️ Databases
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=oracle" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="50" height="50" alt="Oracle" style="vertical-align: middle;"/>
 </p>
 
 ### ☁️ Cloud & DevOps
