@@ -27,7 +27,6 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -49,6 +48,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
 
 ### ☁️ Cloud & DevOps
