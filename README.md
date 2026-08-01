@@ -29,13 +29,37 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,aws,docker,kubernetes,git,github,linux,vscode,eclipse,maven&perline=8" />
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" width="48" height="48" alt="Jenkins"/>
-  &nbsp;&nbsp;
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" width="48" height="48" alt="Hibernate"/>
+</p>
+
+### 🗃️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman"/>
 </p>
 
