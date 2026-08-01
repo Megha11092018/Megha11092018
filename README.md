@@ -48,7 +48,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=oracle" />
 </p>
 
 ### ☁️ Cloud & DevOps
