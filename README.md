@@ -49,7 +49,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="50" height="50" alt="Oracle" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
 </p>
 
 ### ☁️ Cloud & DevOps
