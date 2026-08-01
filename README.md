@@ -26,47 +26,41 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 🚀 Currently building real-world projects while preparing for **Software Development Engineer (SDE)** and **Java Full Stack Developer** roles.
 
 ---
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
 ### 🎨 Frontend Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain.svg" width="48" height="48" alt="Hibernate"/>
 </p>
 
 ### 🗃️ Databases
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
 </p>
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" width="48" height="48" alt="Jenkins"/>
 </p>
 
-### 🔧 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman" />
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman"/>
 </p>
-
-### 📚 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,jenkins" />
-</p>
-
 ---
 ## 🎯 Currently Learning
 
