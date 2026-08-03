@@ -16,14 +16,14 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 <img align="right" alt="Anime Girl Coding" width="350"
 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+**Computer Science Engineering graduate** passionate about building scalable, secure Full Stack applications and **AI/ML-based solutions**.
 
-🎓 Computer Science Engineering graduate passionate about building **scalable and secure Full Stack applications**.
+💻 **Skilled in: ** Java, Spring Boot, Python, AI/ML, TensorFlow, Keras, MySQL, HTML, CSS, JavaScript, AWS, Docker, Jenkins, Kubernetes, Git, and Linux.
 
-💻 Skilled in **Java, Spring Boot, React.js, MySQL, HTML, CSS, JavaScript, AWS, Docker, Jenkins, Kubernetes, Git & Linux**.
+☁️ **Interested in:** Cloud Computing, DevOps, CI/CD, System Design, Artificial Intelligence, and Machine Learning.
 
-☁️ Interested in **Cloud Computing, DevOps, CI/CD, Microservices, and System Design**.
+🚀 **Currently building** real-world Full Stack and AI/ML projects while preparing for Software Development Engineer (SDE), Java Full Stack Developer, and AI/ML Engineer roles.
 
-🚀 Currently building real-world projects while preparing for **Software Development Engineer (SDE)** and **Java Full Stack Developer** roles.
 
 ---
 ## 🛠️ Tech Stack
