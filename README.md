@@ -18,7 +18,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 **Computer Science Engineering graduate** passionate about building scalable, secure Full Stack applications and **AI/ML-based solutions**.
 
-💻 **Skilled in: ** Java, Spring Boot, Python, AI/ML, TensorFlow, Keras, MySQL, HTML, CSS, JavaScript, AWS, Docker, Jenkins, Kubernetes, Git, and Linux.
+💻 **Skilled in:** Java, Spring Boot, Python, AI/ML, TensorFlow, Keras, MySQL, HTML, CSS, JavaScript, AWS, Docker, Jenkins, Kubernetes, Git, and Linux.
 
 ☁️ **Interested in:** Cloud Computing, DevOps, CI/CD, System Design, Artificial Intelligence, and Machine Learning.
 
